@@ -10,3 +10,5 @@ Please cite the paper if you want to use this corpus.
   pages={363--373},<br />
   year={2016}<br />
 }
+
+In our experiment, the first annotation (native speaker) was used as the gold standard. Please refer to the paper for detailed information.
