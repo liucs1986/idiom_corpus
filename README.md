@@ -12,3 +12,5 @@ Please cite the paper if you want to use this corpus.
 }
 
 In our experiment, the first annotation (native speaker) was used as the gold standard. Please refer to the paper for detailed information.
+
+If you have any problem, feel free to send email to changsheng at cs.pitt.edu.
